@@ -1,0 +1,25 @@
+[
+  {
+    "timestamp": "2026-04-24T05:37:45.748563+00:00",
+    "summary": "Lesson: lần trước debug Docker, fixed bằng cách dùng docker compose service name thay vì localhost.",
+    "outcome": "Mình đã dùng profile, episodic, semantic và recent conversation để trả lời ngắn gọn theo ngữ cảnh.",
+    "tags": [
+      "lesson",
+      "lần",
+      "trước",
+      "debug",
+      "docker"
+    ]
+  },
+  {
+    "timestamp": "2026-04-24T05:37:47.426426+00:00",
+    "summary": "Task đó đã xong.",
+    "outcome": "Task completed with a clear outcome.",
+    "tags": [
+      "task",
+      "đó",
+      "đã",
+      "xong"
+    ]
+  }
+]
